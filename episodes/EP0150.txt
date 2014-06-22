@@ -1,6 +1,6 @@
 // FILE: EP0150.str containing 4 strings
 
-//Allons-y !<END>
+//Let's go!<END>
 
 //Une frappe héroïque du numéro 10<LINE>
 //de Nankatsu, Tsubasa Ozora !<END>
